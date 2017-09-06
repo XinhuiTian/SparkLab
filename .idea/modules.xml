@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SingleThreadRpc/SingleThreadRpc.iml" filepath="$PROJECT_DIR$/SingleThreadRpc/SingleThreadRpc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simpleRpc/simpleRpc.iml" filepath="$PROJECT_DIR$/simpleRpc/simpleRpc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sparklab.iml" filepath="$PROJECT_DIR$/.idea/modules/sparklab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sparklab-build.iml" filepath="$PROJECT_DIR$/.idea/modules/sparklab-build.iml" />
+    </modules>
+  </component>
+</project>
